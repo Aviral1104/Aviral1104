@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m enhancing my skills in machine learning and AI, focusing on computer vision and natural language processing. My GitHub projects reflect my interests in gesture recognition, automated visual grading, gravitational field simulations, and generative models. I’m eager to collaborate on innovative projects and explore advanced deep learning techniques. Recently, I completed AWS Cloud Practitioner and Oracle Cloud Database Development certifications. I also write Medium articles on science and cosmos. I seek guidance on cutting-edge research and practical applications in deep learning. If you have exciting project ideas, I’d love to connect!
+I’m enhancing my skills in machine learning and AI, focusing on computer vision and natural language processing. My projects reflect my interests in gesture recognition, automated visual grading, gravitational field simulations, and generative models. I’m eager to collaborate on innovative projects and explore advanced deep learning techniques. Recently, I completed AWS Cloud Practitioner and Oracle Cloud Database Development certifications. I also write Medium articles on science and cosmos. I seek guidance on cutting-edge research and practical applications in deep learning. If you have exciting project ideas, I’d love to connect!
 
 
 ## 🌐 Socials:
